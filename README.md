@@ -1,2 +1,2 @@
 # fps-dispatcher
-A simulator of EDF scheduling using a job dispatch method.
+A simulator of FPS scheduling using a job dispatch method.
